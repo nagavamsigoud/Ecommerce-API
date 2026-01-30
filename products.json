@@ -1,0 +1,38 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone",
+        "price": 200,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone",
+        "price": 1154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 204,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "watch10",
+        "price": 304,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "watch11",
+        "price": 404,
+        "featured": false,
+        "company": "apple"
+    }
+]
